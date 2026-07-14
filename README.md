@@ -60,7 +60,10 @@ Scene #4: 거북선 (Geobukseon) - "혁신의 힘"
 (국문) 세상을 깨우는 혁신의 울림, 이리얏.
 (영문) The resonance of innovation, Iri-yat.
 
-도구 선정: 이미지(Midjourney 등), 비디오(Runway 등), 오디오(Suno 등) 도구를 왜 선택했는지 이유 기술.
+이미지, 비디오, 오디오 도구 선정 이유
+이미지 Midjourney: 결과물이 고화질로 잘 구현됨
+비디오(Runway 등)
+오디오(Suno 등)
 결과물: 스토리보드 초안 완성.
 
 
